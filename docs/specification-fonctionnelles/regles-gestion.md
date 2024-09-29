@@ -8,12 +8,12 @@
 
 ## Entités
 `Utilisateur` : **représente les personnes inscrites sur le site pour effectuer des achats ou gérer leur compte.**
-- Contient des détails tels que le nom, le prénom, le numéro de téléphone, l'adresse email, mot de passe, le sexe, la date de naissance.
+- Contient des détails tels que le nom, le prénom, le numéro de téléphone, l'adresse email, le mot de passe, le sexe, la date de naissance.
 
 <br>
 
 `Employé` : **représente les employés du site qui gèrent l'inventaire des produits et les opérations quotidiennes liées aux articles et aux commandes.**
-- Contient des détails tels que le nom, le prénom, nom du poste, l'adresse email, lemot de passe et le numéro de téléphone.
+- Contient des détails tels que le nom, le prénom, nom du poste, l'adresse email, le mot de passe et le numéro de téléphone.
 
 <br>
 
@@ -52,7 +52,7 @@
 
 <br><br>
 
-## Règles de gestion par entité
+## Règles de gestion
 
 ### Compte de l'utilisateur
 - L'`Utilisateur` doit pouvoir s'inscrire avec une adresse email valide et créer un mot de passe selon des critères de sécurité définis.
